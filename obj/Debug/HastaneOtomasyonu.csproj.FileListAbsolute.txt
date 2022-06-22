@@ -1,0 +1,17 @@
+C:\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Login.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Doctor.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Home.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.LabTests.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Patient.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Prescriptions.resources
+C:\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Reception.resources
